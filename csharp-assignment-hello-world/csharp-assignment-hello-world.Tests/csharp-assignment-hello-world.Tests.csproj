@@ -16,6 +16,11 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\\csharp-assignment-hello-world\\csharp-assignment-hello-world.csproj" />
+  </ItemGroup>
+
+
+  <ItemGroup>
     <Using Include="Xunit" />
   </ItemGroup>
 
